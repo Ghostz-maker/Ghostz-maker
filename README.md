@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ghostz-maker
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Developing
-- 💞️ I’m looking to collaborate on anywhere
+- 💞️ 
 - 📫 
 
 <!---
