@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghostz-maker **[Sumitra]**, a developer and I'm passionate about **solving problems through technology**.
+- 👋 Hi, I’m @Ghostz-maker [Sumitra], a developer and I'm passionate about solving problems through technology.
 
 - 💞️ I enjoy breaking down challenges, finding simple solutions, and turning ideas into working systems.
 
